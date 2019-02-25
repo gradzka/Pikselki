@@ -1,0 +1,2 @@
+# Pikselki
+Nonograms web game
